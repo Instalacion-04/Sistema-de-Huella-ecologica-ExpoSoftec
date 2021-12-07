@@ -1,0 +1,81 @@
+C:\Users\Luis Enrique\Desktop\Huella\Huella\bin\Debug\Huella.exe.config
+C:\Users\Luis Enrique\Desktop\Huella\Huella\bin\Debug\Huella.exe
+C:\Users\Luis Enrique\Desktop\Huella\Huella\bin\Debug\Huella.pdb
+C:\Users\Luis Enrique\Desktop\Huella\Huella\obj\Debug\Huella.csprojAssemblyReference.cache
+C:\Users\Luis Enrique\Desktop\Huella\Huella\obj\Debug\Huella.Form1.resources
+C:\Users\Luis Enrique\Desktop\Huella\Huella\obj\Debug\Huella.Properties.Resources.resources
+C:\Users\Luis Enrique\Desktop\Huella\Huella\obj\Debug\Huella.csproj.GenerateResource.cache
+C:\Users\Luis Enrique\Desktop\Huella\Huella\obj\Debug\Huella.csproj.CoreCompileInputs.cache
+C:\Users\Luis Enrique\Desktop\Huella\Huella\obj\Debug\Huella.exe
+C:\Users\Luis Enrique\Desktop\Huella\Huella\obj\Debug\Huella.pdb
+C:\Users\Luis Enrique\Desktop\Huella\Huella\obj\Debug\Huella.Form2.resources
+C:\Users\Luis Enrique\Desktop\Huella\Huella\obj\Debug\Huella.Form3.resources
+C:\Users\Luis Enrique\Desktop\Huella - copia\Huella\bin\Debug\Huella.exe.config
+C:\Users\Luis Enrique\Desktop\Huella - copia\Huella\bin\Debug\Huella.exe
+C:\Users\Luis Enrique\Desktop\Huella - copia\Huella\bin\Debug\Huella.pdb
+C:\Users\Luis Enrique\Desktop\Huella - copia\Huella\obj\Debug\Huella.csprojAssemblyReference.cache
+C:\Users\Luis Enrique\Desktop\Huella - copia\Huella\obj\Debug\Huella.Form1.resources
+C:\Users\Luis Enrique\Desktop\Huella - copia\Huella\obj\Debug\Huella.Form2.resources
+C:\Users\Luis Enrique\Desktop\Huella - copia\Huella\obj\Debug\Huella.Form3.resources
+C:\Users\Luis Enrique\Desktop\Huella - copia\Huella\obj\Debug\Huella.Properties.Resources.resources
+C:\Users\Luis Enrique\Desktop\Huella - copia\Huella\obj\Debug\Huella.csproj.GenerateResource.cache
+C:\Users\Luis Enrique\Desktop\Huella - copia\Huella\obj\Debug\Huella.csproj.CoreCompileInputs.cache
+C:\Users\Luis Enrique\Desktop\Huella - copia\Huella\obj\Debug\Huella.exe
+C:\Users\Luis Enrique\Desktop\Huella - copia\Huella\obj\Debug\Huella.pdb
+C:\Users\Luis Enrique\Desktop\Huella - copia - copia\Huella\bin\Debug\Huella.exe.config
+C:\Users\Luis Enrique\Desktop\Huella - copia - copia\Huella\bin\Debug\Huella.exe
+C:\Users\Luis Enrique\Desktop\Huella - copia - copia\Huella\bin\Debug\Huella.pdb
+C:\Users\Luis Enrique\Desktop\Huella - copia - copia\Huella\obj\Debug\Huella.csprojAssemblyReference.cache
+C:\Users\Luis Enrique\Desktop\Huella - copia - copia\Huella\obj\Debug\Huella.Form1.resources
+C:\Users\Luis Enrique\Desktop\Huella - copia - copia\Huella\obj\Debug\Huella.Properties.Resources.resources
+C:\Users\Luis Enrique\Desktop\Huella - copia - copia\Huella\obj\Debug\Huella.csproj.GenerateResource.cache
+C:\Users\Luis Enrique\Desktop\Huella - copia - copia\Huella\obj\Debug\Huella.csproj.CoreCompileInputs.cache
+C:\Users\Luis Enrique\Desktop\Huella - copia - copia\Huella\obj\Debug\Huella.exe
+C:\Users\Luis Enrique\Desktop\Huella - copia - copia\Huella\obj\Debug\Huella.pdb
+C:\Users\Luis Enrique\Desktop\Huella - copia - copia\Huella\bin\Debug\Google.Protobuf.dll
+C:\Users\Luis Enrique\Desktop\Huella - copia - copia\Huella\bin\Debug\MySql.Data.dll
+C:\Users\Luis Enrique\Desktop\Huella - copia - copia\Huella\bin\Debug\MySql.Data.xml
+C:\Users\Luis Enrique\Desktop\Huella - copia - copia\Huella\obj\Debug\Huella.csproj.CopyComplete
+C:\Users\Luis Enrique\Desktop\Final\Huella\bin\Debug\Huella.exe.config
+C:\Users\Luis Enrique\Desktop\Final\Huella\bin\Debug\Huella.exe
+C:\Users\Luis Enrique\Desktop\Final\Huella\bin\Debug\Huella.pdb
+C:\Users\Luis Enrique\Desktop\Final\Huella\bin\Debug\Google.Protobuf.dll
+C:\Users\Luis Enrique\Desktop\Final\Huella\bin\Debug\MySql.Data.dll
+C:\Users\Luis Enrique\Desktop\Final\Huella\bin\Debug\MySql.Data.xml
+C:\Users\Luis Enrique\Desktop\Final\Huella\obj\Debug\Huella.csprojAssemblyReference.cache
+C:\Users\Luis Enrique\Desktop\Final\Huella\obj\Debug\Huella.Form1.resources
+C:\Users\Luis Enrique\Desktop\Final\Huella\obj\Debug\Huella.Inicio.resources
+C:\Users\Luis Enrique\Desktop\Final\Huella\obj\Debug\Huella.Properties.Resources.resources
+C:\Users\Luis Enrique\Desktop\Final\Huella\obj\Debug\Huella.csproj.GenerateResource.cache
+C:\Users\Luis Enrique\Desktop\Final\Huella\obj\Debug\Huella.csproj.CoreCompileInputs.cache
+C:\Users\Luis Enrique\Desktop\Final\Huella\obj\Debug\Huella.csproj.CopyComplete
+C:\Users\Luis Enrique\Desktop\Final\Huella\obj\Debug\Huella.exe
+C:\Users\Luis Enrique\Desktop\Final\Huella\obj\Debug\Huella.pdb
+C:\Users\Luis Enrique\Documents\Final\Huella\bin\Debug\Huella.exe.config
+C:\Users\Luis Enrique\Documents\Final\Huella\bin\Debug\Huella.exe
+C:\Users\Luis Enrique\Documents\Final\Huella\bin\Debug\Huella.pdb
+C:\Users\Luis Enrique\Documents\Final\Huella\bin\Debug\Google.Protobuf.dll
+C:\Users\Luis Enrique\Documents\Final\Huella\bin\Debug\MySql.Data.dll
+C:\Users\Luis Enrique\Documents\Final\Huella\bin\Debug\MySql.Data.xml
+C:\Users\Luis Enrique\Documents\Final\Huella\obj\Debug\Huella.csprojAssemblyReference.cache
+C:\Users\Luis Enrique\Documents\Final\Huella\obj\Debug\Huella.Form1.resources
+C:\Users\Luis Enrique\Documents\Final\Huella\obj\Debug\Huella.Inicio.resources
+C:\Users\Luis Enrique\Documents\Final\Huella\obj\Debug\Huella.Properties.Resources.resources
+C:\Users\Luis Enrique\Documents\Final\Huella\obj\Debug\Huella.csproj.GenerateResource.cache
+C:\Users\Luis Enrique\Documents\Final\Huella\obj\Debug\Huella.csproj.CoreCompileInputs.cache
+C:\Users\Luis Enrique\Documents\Final\Huella\obj\Debug\Huella.csproj.CopyComplete
+C:\Users\Luis Enrique\Documents\Final\Huella\obj\Debug\Huella.exe
+C:\Users\Luis Enrique\Documents\Final\Huella\obj\Debug\Huella.pdb
+E:\Datos\4 Semestre\Desarrollo Sostenible\Final\Huella\bin\Debug\Huella.exe.config
+E:\Datos\4 Semestre\Desarrollo Sostenible\Final\Huella\bin\Debug\Huella.exe
+E:\Datos\4 Semestre\Desarrollo Sostenible\Final\Huella\bin\Debug\Huella.pdb
+E:\Datos\4 Semestre\Desarrollo Sostenible\Final\Huella\bin\Debug\MySql.Data.xml
+E:\Datos\4 Semestre\Desarrollo Sostenible\Final\Huella\obj\Debug\Huella.csprojResolveAssemblyReference.cache
+E:\Datos\4 Semestre\Desarrollo Sostenible\Final\Huella\obj\Debug\Huella.Form1.resources
+E:\Datos\4 Semestre\Desarrollo Sostenible\Final\Huella\obj\Debug\Huella.Inicio.resources
+E:\Datos\4 Semestre\Desarrollo Sostenible\Final\Huella\obj\Debug\Huella.Properties.Resources.resources
+E:\Datos\4 Semestre\Desarrollo Sostenible\Final\Huella\obj\Debug\Huella.csproj.GenerateResource.cache
+E:\Datos\4 Semestre\Desarrollo Sostenible\Final\Huella\obj\Debug\Huella.csproj.CoreCompileInputs.cache
+E:\Datos\4 Semestre\Desarrollo Sostenible\Final\Huella\obj\Debug\Huella.csproj.CopyComplete
+E:\Datos\4 Semestre\Desarrollo Sostenible\Final\Huella\obj\Debug\Huella.exe
+E:\Datos\4 Semestre\Desarrollo Sostenible\Final\Huella\obj\Debug\Huella.pdb

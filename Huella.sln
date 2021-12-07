@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huella", "Huella\Huella.csproj", "{256697AA-B145-45E4-97CA-01FBD739C8ED}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Program", "..\..\Desktop\Program\Program.vdproj", "{A3C9916B-DE44-4B24-B200-518C1B4D0802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{256697AA-B145-45E4-97CA-01FBD739C8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256697AA-B145-45E4-97CA-01FBD739C8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256697AA-B145-45E4-97CA-01FBD739C8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256697AA-B145-45E4-97CA-01FBD739C8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C9916B-DE44-4B24-B200-518C1B4D0802}.Debug|Any CPU.ActiveCfg = Debug
+		{A3C9916B-DE44-4B24-B200-518C1B4D0802}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07AB6407-EE11-4061-8918-66A386FAEF6A}
+	EndGlobalSection
+EndGlobal
